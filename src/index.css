@@ -1,0 +1,14 @@
+body{
+  background-color: aqua;
+  font-family: monospace;
+}
+.clock-container{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.clock{
+  font-size: 6rem;
+  font-weight: 700;
+}
